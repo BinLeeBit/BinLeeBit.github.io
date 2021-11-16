@@ -6,6 +6,7 @@ email: ""
 description: ""
 keyword: ""
 production_url : http://rk700.github.io
+timezone: Asia/Shanghai
 
 permalink: /:year/:month/:day/:title
 
