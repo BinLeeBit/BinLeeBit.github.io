@@ -1,5 +1,5 @@
 ---
-title: 通过eBPF实现对Linux内核的灵活扩展
+title: 通过eBPF实现对Linux内核的灵活扩展 -- 11.16修改
 author: rk700
 layout: post
 date: 2021-10-11 10:36:26
@@ -9,7 +9,8 @@ tags:
   - kernel
 ---
 
-## 背景介绍
+## 背景介绍 -- 11.16补充
+（以下内容被修改）
 
 eBPF(Extended Berkeley Packet Filter)，翻译为中文即扩展型柏克莱封包过滤器。单纯从名称上可能不容易理解eBPF究竟是什么，因为这个名称源自上世纪90年代初诞生的BPF。用直白的话来说，eBPF是在Linux操作系统内核中实现了一个虚拟机，当特定事件触发时，可以在这个虚拟机安全环境中执行eBPF字节码，从而实现性能监控、安全、网络等多种功能。
 
