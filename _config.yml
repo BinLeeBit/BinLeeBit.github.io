@@ -5,14 +5,14 @@ header-img: img/home-bg.jpg
 email: ""
 description: ""
 keyword: ""
-production_url : http://rk700.github.io
+production_url : http://binleebit.github.io
 timezone: Asia/Shanghai
 
 permalink: /:year/:month/:day/:title
 
 # SNS settings
 RSS: true
-github_username:    rk700
+github_username:    binleebit
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -37,11 +37,11 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 # Disqus settings
-disqus_username: rk700
+disqus_username: binleebit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "信息安全爱好者"
+sidebar-about-description: "人工智能与标准化爱好者"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

@@ -1,6 +1,6 @@
 ---
 title: htmlspecialchars
-author: rk700
+author: binleebit
 layout: post
 redirect_from: 
   - /writeup/2014/05/26/htmlspecialchars
